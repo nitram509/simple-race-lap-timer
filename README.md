@@ -4,6 +4,8 @@ A simple solution to measure your laps during drone races - for your own record 
 
 ## Standalone module
 
+![measure rssi test bench](/measure-rssi-test-bench.jpg?raw=true)
+
 ### Status: Work in Progres
 
 A simple race lap timer, based on
