@@ -17,7 +17,7 @@ The standalone module works independently from any server ... it just requires a
 ### Hardware
 
 * RX5808 diversity module
-   * modulehttps://de.aliexpress.com/item/DIY-RX5808-5-8G-40CH-Diversity-FPV-Receiver-with-OLED-Display-for-FPV-Racer-Quad/32702074923.html
+   * https://de.aliexpress.com/item/DIY-RX5808-5-8G-40CH-Diversity-FPV-Receiver-with-OLED-Display-for-FPV-Racer-Quad/32702074923.html
    * has built-in OLED display, 128x32 pixel
    * can handle 1 or 2 racers in parallel
 * 5V Power-Bank (based on 2x18680 Li-ION batteries, e.g. 3400mAh)
